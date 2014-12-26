@@ -20,11 +20,12 @@ To run the code, you should have:
 
 3) run infomap (http://www.tp.umu.se/~rosvall/code.html) to get communities for each network,
 
-4) run find-cliques.py to get cliques of the original network,
+4) run find-cliques.py to get cliques of the original network.
 
 
 
-Note: 
+Notes:
+
 	- You may use "code/"re-wiring-edges.jar" to re-wire the edges and generate noisy networks
 
 	- You may use "code/deAnon/graph/OverlappedGraphs.java" to generate two overlapped networks from a reference network.
