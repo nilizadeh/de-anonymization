@@ -8,7 +8,7 @@ The deAnon code is in java. You may consider any of the "code/deAnon/Comm_Enhanc
 To get degree of anonymity in addition to success and error rates:
 
 First, run exps with Prob/Deg parameter as False, to compute the probabilities.
-Then, average the probabilities and run the exps with Prob/Deg parameter as True, to compute degree of anonymity.
+Then, average the probabilities and run the exps with Prob/Deg parameter as True. 
 
 
 
@@ -24,8 +24,9 @@ To run the code, you should have:
 
 
 
-Note: You may use "code/"re-wiring-edges.jar" to re-wire the edges and generate noisy networks
-
+Note: 
+	- You may use "code/"re-wiring-edges.jar" to re-wire the edges and generate noisy networks
+	- You may use "code/deAnon/graph/OverlappedGraphs.java" to generate two overlapped networks from a reference network.
 
 
 Please cite our paper using:
