@@ -26,6 +26,7 @@ To run the code, you should have:
 
 Note: 
 	- You may use "code/"re-wiring-edges.jar" to re-wire the edges and generate noisy networks
+
 	- You may use "code/deAnon/graph/OverlappedGraphs.java" to generate two overlapped networks from a reference network.
 
 
